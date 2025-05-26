@@ -3,11 +3,13 @@ This project is a Discord Notification System.\
 It retrieves messages from a new email inbox and forwards them to Discord using a Discord webhook.\
 Discord will automatically tag the relevant person or teams in the chat based on the content of the email.
 
-## Library
+## Library & Tools
 
 - Next.js
 - NextAuth
 - Discord (Webhook)
+- Google Cloud Platform (GCP)
+- Gmail API
 
 ## System Requirements
 To set up the system, you need to create a project on Google Cloud Platform and configure a Discord webhook.
