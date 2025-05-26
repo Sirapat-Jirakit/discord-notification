@@ -1,7 +1,7 @@
 ## Discord Notification System
 This project is a Discord Notification System.\
 It retrieves messages from a new email inbox and forwards them to Discord using a Discord webhook.\
-Discord will automatically tag the relevant person or teams in the chat based on the content of the email.
+Discord will automatically tag the relevant person or teams in the chat based on the configured settings.
 
 ## Library & Tools
 
